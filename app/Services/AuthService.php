@@ -47,7 +47,7 @@ class AuthService
 
         $response = ['user' => $user, 'token' => $token];
 
-        return $user;
+        return $response;
 
     }
 

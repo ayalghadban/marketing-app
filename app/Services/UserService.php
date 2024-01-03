@@ -49,20 +49,6 @@ class UserService
 
         return true;
     }
-    /*
-    public function block_user($request)
-    {
-        $block =
-    }
 
-    public function can_publish($request)
-    {
-
-    }
-
-    public function add_friend($request)
-    {
-
-    }*/
 
 }
